@@ -1,0 +1,3 @@
+ggit add .
+git commit -m "primeiro commit"
+git push
