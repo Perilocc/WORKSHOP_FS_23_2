@@ -1,0 +1,10 @@
+	Power BI - Ferramenta
+
+-Criação de Dashboards inteligentes e relacionais.
+-Dinamismo e mobilidade.
+-Uso de databases para gerar gráficos personalizados.
+
+Vantagens:
+-Multiplos estilos para utilizar.
+-Filtragem de Dados.
+-Importação de arquivos.
